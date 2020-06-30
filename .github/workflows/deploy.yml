@@ -38,4 +38,4 @@ jobs:
       run: npm install --global surge
 
     - name: Deploy to Surge
-      run: surge ./build elearning-website-abdurrehman.surge.sh --token ${{ secrets.SURGE_TOKEN }}
+      run: surge public/ elearning-website-abdurrehman.surge.sh --token ${{ secrets.SURGE_TOKEN }}
