@@ -1,0 +1,119 @@
+.bg{
+position: fixed;
+top: 0;
+left: 0;
+z-index: 100;
+width: 100% 
+}
+.defaultscroll{
+  background-color: transparent;
+}
+.uponscroll{
+  background-color: #DBD5CB;
+}
+.bg.scrolled {
+  background-color: #DBD5CB;
+}
+.bg:hover{
+  background-color: #DBD5CB;
+}
+.logo{
+  height: 80px;
+}
+.loginreg{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.lielements{
+  color: white !important;
+}
+.lielements:hover{
+  color: black !important;
+}
+@media (max-width: 770px){
+  .login{
+    margin: 0 auto;
+  }
+  .ulelements{
+      text-align: center;
+      color: white;
+  }
+  .navbrand{
+      margin: 0 99px;
+  }
+  .centered{
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 24px;
+      color: white !important;
+  }
+}
+@media (max-width: 800px){
+  .login{
+    margin: 0 auto;
+  }
+  .ulelements{
+      text-align: center;
+      color: white;
+  }
+  .navbrand{
+      margin: 0 99px;
+  }
+  .centered{
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 24px;
+      color: white !important;
+  }
+}
+@media (max-width: 900px){
+  .login{
+    margin: 0 auto;
+  }
+  .ulelements{
+      text-align: center;
+      color: white;
+  }
+  .navbrand{
+      margin: 0 99px;
+  }
+  .centered{
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 24px;
+      color: white !important;
+  }
+}
+@media (max-width: 1000px){
+  .login{
+    margin: 0 auto;
+  }
+  .ulelements{
+      text-align: center;
+      color: white;
+  }
+  .navbrand{
+      margin: 0 99px;
+  }
+  .centered{
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 24px;
+      color: white !important;
+  }
+}
+.centered{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white !important;
+}
