@@ -6,5 +6,42 @@ export default function Home() {
   return <div>
     <Header />
     <Header_Background  />
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+    <p>Default</p>
+
     </div>
 }
